@@ -1,0 +1,10 @@
+{
+  "total_orders": 72,
+  "settled_orders": 67,
+  "pending_orders": 5,
+  "split_groups": 3,
+  "partial_refunds": 4,
+  "duplicate_amount_pairs": 4,
+  "bank_entries": 64,
+  "date_range": "2025-06-01 to 2025-07-16"
+}
